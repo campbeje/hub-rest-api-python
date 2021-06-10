@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+
 # updates 'usage' for a list of components on a given project and version.  Component list file must be one component per line
 
 import argparse
